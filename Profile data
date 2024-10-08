@@ -1,0 +1,184 @@
+{
+   "public_identifier":"sjkiruba-karan-7a5614223",
+   "profile_pic_url":"https://media.licdn.com/dms/image/v2/D5635AQHxQN6dNseOcQ/profile-framedphoto-shrink_100_100/profile-framedphoto-shrink_100_100/0/1726653304772?e=1728972000&v=beta&t=HeXYGLwVJ0ltsAD-VZKIdIvQzXmmlcF6_uuO0NotAHY",
+   "background_cover_image_url":"https://media.licdn.com/dms/image/v2/D5616AQEp74LE5RfY1g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725879416223?e=1733961600&v=beta&t=KgThNQeDx2a5Ch-hC_wGrMKAr2K9xt5eX1Ra5QbJJPY",
+   "first_name":"Sjkiruba",
+   "last_name":"Karan",
+   "full_name":"Sjkiruba Karan",
+   "follower_count":340,
+   "occupation":"Data Analyst at Capgemini",
+   "headline":"Data Analyst | Mobile app developer | Python |SQL | Power BI | NumPy | Pandas ",
+   "summary":"None",
+   "country":"IN",
+   "country_full_name":"India",
+   "city":"Bengaluru",
+   "state":"Karnataka",
+   "experiences":[
+      {
+         "starts_at":{
+            "day":1,
+            "month":4,
+            "year":2023
+         },
+         "ends_at":"None",
+         "company":"Capgemini",
+         "company_linkedin_profile_url":"https://www.linkedin.com/company/capgemini",
+         "company_facebook_profile_url":"None",
+         "title":"Data Analyst",
+         "description":"None",
+         "location":"Bengaluru, Karnataka, India",
+         "logo_url":"https://s3.us-west-000.backblazeb2.com/proxycurl/company/capgemini/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20241008%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20241008T052208Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=9ec5fc83227006551947a19c75124bc3ad5ebda1caad215d006c3978071d9aa4"
+      }
+   ],
+   "education":[
+      {
+         "starts_at":{
+            "day":1,
+            "month":1,
+            "year":2018
+         },
+         "ends_at":{
+            "day":31,
+            "month":12,
+            "year":2022
+         },
+         "field_of_study":"Information Technology",
+         "degree_name":"Bachelor of Technology - BTech",
+         "school":"Agni college of technology",
+         "school_linkedin_profile_url":"None",
+         "school_facebook_profile_url":"None",
+         "description":"None",
+         "logo_url":"None",
+         "grade":"None",
+         "activities_and_societies":"None"
+      }
+   ],
+   "languages":[
+      
+   ],
+   "languages_and_proficiencies":[
+      
+   ],
+   "accomplishment_organisations":[
+      
+   ],
+   "accomplishment_publications":[
+      
+   ],
+   "accomplishment_honors_awards":[
+      
+   ],
+   "accomplishment_patents":[
+      
+   ],
+   "accomplishment_courses":[
+      
+   ],
+   "accomplishment_projects":[
+      
+   ],
+   "accomplishment_test_scores":[
+      
+   ],
+   "volunteer_work":[
+      
+   ],
+   "certifications":[
+      
+   ],
+   "connections":340,
+   "people_also_viewed":[
+      {
+         "link":"https://www.linkedin.com/in/ragulgandhi-k-a42049215?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADZKFpIBPKDfzQmFDi-Pzh_uvtvSq8kYwZc",
+         "name":"RagulGandhi K",
+         "summary":"fullstack | Java developer|",
+         "location":"None"
+      },
+      {
+         "link":"https://www.linkedin.com/in/supriya-a-622bb625a?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAD_kyvoBLoOBKVWmZWelJ6eDvhAIeclr7eg",
+         "name":"Supriya A",
+         "summary":"Attended Agni College Of Technology",
+         "location":"None"
+      },
+      {
+         "link":"https://www.linkedin.com/in/r-pranav?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADDWQvwBnrlMLmR0Xtv2rILpMJJzboyUMog",
+         "name":"Pranav R",
+         "summary":"Automotive Cybersecurity Engineer at valeo | ISO 21434 | ISO 14229 | TARA | CSMS | Full Stack Developer | Mobile App Developer | Bug Hunter",
+         "location":"None"
+      },
+      {
+         "link":"https://www.linkedin.com/in/jaganathan-a-s-36281613?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAALKS3oBlByTnkuTsr3la5wjVKEXhn0oARs",
+         "name":"Jaganathan A S",
+         "summary":"Bid Manager - Oracle ERP Solutions at Cognizant Technology Solutions",
+         "location":"None"
+      },
+      {
+         "link":"https://www.linkedin.com/in/kirubanithi-sidharthan-7235701b1?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADFiBwsBEFm31cMi_xCY763rRm3Cl2FPGDE",
+         "name":"Kirubanithi sidharthan",
+         "summary":"Senior Data Engineer|| Azure certified Engineer",
+         "location":"None"
+      },
+      {
+         "link":"https://www.linkedin.com/in/akash-r-72637b286?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAEV3SU4BXryHhAVMXxL1dYONlD6Q5EVJjZ0",
+         "name":"Akash R",
+         "summary":"Attended Agni College Of Technology",
+         "location":"None"
+      },
+      {
+         "link":"https://www.linkedin.com/in/parveen-banu-a-1a07581b4?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADHx4AgBV3MvQRz22_SLwALapCtpFti8REA",
+         "name":"Parveen Banu A",
+         "summary":"Senior Software Engineer",
+         "location":"None"
+      },
+      {
+         "link":"https://www.linkedin.com/in/nehaa-shri-6bb67622b?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADmV228B-PdYVF6AoI_kdKhq-psjj6lyLXQ",
+         "name":"Nehaa Shri",
+         "summary":"Student at Agni College of Technology",
+         "location":"None"
+      },
+      {
+         "link":"https://www.linkedin.com/in/pragathish-selvadurai-7410b3218?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADbU02EBqF-0ltMT01V4i-qUhKFprMf-6lA",
+         "name":"Pragathish Selvadurai",
+         "summary":"B.E Computer Science Engineering",
+         "location":"None"
+      },
+      {
+         "link":"https://www.linkedin.com/in/siva-saradhe-r-a62b8829a?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAEhu5-oB392r3r4Wk9tyEvchObmZMeOuHVg",
+         "name":"Siva Saradhe R",
+         "summary":"Full Stack Developer| Python Developer | C programmer",
+         "location":"None"
+      }
+   ],
+   "recommendations":[
+      
+   ],
+   "activities":[
+      
+   ],
+   "similarly_named_profiles":[
+      
+   ],
+   "articles":[
+      
+   ],
+   "groups":[
+      
+   ],
+   "skills":[
+      
+   ],
+   "inferred_salary":"None",
+   "gender":"None",
+   "birth_date":"None",
+   "industry":"None",
+   "extra":"None",
+   "interests":[
+      
+   ],
+   "personal_emails":[
+      
+   ],
+   "personal_numbers":[
+      
+   ]
+}
